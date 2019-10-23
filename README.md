@@ -1,6 +1,6 @@
 # Go-Express Web Framework
 
-Go-Express is a express(node) like web framework written in Go.
+Go-Express is a express(node)-like web framework written in Go.
 
 ## Contents
 
